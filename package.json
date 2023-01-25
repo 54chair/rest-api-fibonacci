@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/54chair/rest-api-fibonacci/issues"
   },
-  "homepage": "https://github.com/54chair/rest-api-fibonacci#readme"
+  "homepage": "https://github.com/54chair/rest-api-fibonacci#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
