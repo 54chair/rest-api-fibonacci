@@ -7,7 +7,7 @@ const fib = function fib(n) {
 
     result.push(a + b);
   }
-  return result[n];
+  return BigInt(result[n]);
 };
 
 module.exports = fib;
